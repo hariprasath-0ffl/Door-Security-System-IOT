@@ -58,4 +58,4 @@ COMPONENTS
 14. **Alarm System:** This setup can be used as a simple alarm system, alerting when an object comes too close to the sensor.
 15. **Feedback Mechanism:** The buzzer's sound provides immediate feedback without the need for visual monitoring.
 16. **Versatile Application:** This system can be applied in various scenarios such as security systems, obstacle detection, or interactive installations.
-8. 
+ 
